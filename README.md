@@ -1,2 +1,2 @@
 # counter
-flutter app called "Masbaha"
+flutter app called "Azkar"
